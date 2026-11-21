@@ -1,0 +1,74 @@
+{
+  "title": "Taiseel's next 12-month business focus",
+  "decision": "Choose the business model and market wedge Taiseel should prioritise for the next 12 months.",
+  "mode": "full",
+  "options": [
+    {
+      "id": "A",
+      "label": "Build all four pillars together"
+    },
+    {
+      "id": "B",
+      "label": "Build one paid Land Intelligence product"
+    },
+    {
+      "id": "C",
+      "label": "Sell manual site-intelligence services first"
+    },
+    {
+      "id": "D",
+      "label": "Stop or pivot away from Taiseel"
+    }
+  ],
+  "weights": {
+    "bezos": {
+      "weight": 2,
+      "reason": "Long-term strategy and reversibility"
+    },
+    "graham": {
+      "weight": 3,
+      "reason": "Customer demand and product-market fit"
+    },
+    "hormozi": {
+      "weight": 3,
+      "reason": "Offer, pricing and sales"
+    },
+    "garyvee": {
+      "weight": 2,
+      "reason": "Attention and distribution"
+    },
+    "martell": {
+      "weight": 2,
+      "reason": "Founder time and delivery capacity"
+    },
+    "wickman": {
+      "weight": 2,
+      "reason": "Operational focus and accountability"
+    },
+    "buffett": {
+      "weight": 2,
+      "reason": "Cash, capital efficiency and downside"
+    },
+    "naval": {
+      "weight": 2,
+      "reason": "Owned data, software and leverage"
+    }
+  },
+  "seats": [
+    "bezos",
+    "graham",
+    "hormozi",
+    "garyvee",
+    "martell",
+    "wickman",
+    "buffett",
+    "naval"
+  ],
+  "brief": "Taiseel combines a Rwanda-first real-estate intelligence and exchange vision with a separate-looking development/JV proposition. The reviewed material does not establish paying customers, revenue or delivery economics. The council must test demand, not reward the amount of software built.",
+  "assumptions": [
+    "Revenue and paying-customer count are unknown, not assumed to be zero.",
+    "Founder-led and resource-constrained delivery is assumed until team, hours and runway are verified.",
+    "No repeatable paid demand has been evidenced in the reviewed project materials.",
+    "The 120+ completed-projects claim on the Taiseel Development website is unverified."
+  ]
+}

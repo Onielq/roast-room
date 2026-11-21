@@ -1,0 +1,111 @@
+{
+  "label": "GO",
+  "call": "Run a capped 90-day paid Site Decision Brief service for Kigali-based real-estate developers. Use manual delivery to prove demand, margins and a repeatable workflow, then productise only what customers repeatedly pay for.",
+  "recommended": "C",
+  "why": [
+    {
+      "point": "There is no verified evidence of paid demand or repeatable unit economics. Five paying customers matter more than another round of feature development.",
+      "seat": "Graham",
+      "framework": "Make Something People Want"
+    },
+    {
+      "point": "The first offer should solve one expensive developer decision, with payment collected before research begins.",
+      "seat": "Hormozi",
+      "framework": "One Product, One Avatar, One Channel"
+    },
+    {
+      "point": "Public land data is an input, not the moat. The asset must be trusted, sourced, current and reusable.",
+      "seat": "Bezos",
+      "framework": "Work Backwards from Customer Needs"
+    }
+  ],
+  "minority": {
+    "seat": "Naval",
+    "quote": "C can turn Taiseel into a well-paid research desk with no leverage.",
+    "would_have_to_be_true": "The pilot fails to produce permissioned reusable data or a workflow that customers want repeatedly; in that case a narrow software-first product may be better."
+  },
+  "next_steps": [
+    {
+      "when": "By 2026-11-28",
+      "action": "Define the paid Site Decision Brief, data-source register, exclusions and deposit terms."
+    },
+    {
+      "when": "By 2026-12-21",
+      "action": "Complete 20 qualified developer conversations and secure paid pilot work."
+    },
+    {
+      "when": "By 2027-02-19",
+      "action": "Review five paid reports, repeat demand, contribution margin and the productisation decision."
+    }
+  ],
+  "kill_criteria": "Stop or reshape if fewer than three of 20 qualified buyers pay, reports do not change a real decision, direct delivery cost stays above 70% of fees after five reports, or reliable lawful data cannot be secured.",
+  "conditions": [
+    "20 qualified developer conversations within 30 days.",
+    "At least five paid assessments within 90 days.",
+    "At least two repeat orders, retainer requests or referrals.",
+    "By the fifth report, target direct delivery costs below 50% of collected fees.",
+    "All material claims show source, date and confidence; no legal title or valuation guarantees.",
+    "No new hires, borrowing, personal guarantees or speculative development commitments during the test."
+  ],
+  "fights": [
+    {
+      "crux": "Service first or software first?",
+      "story": "Seven seats favoured a paid service test; Naval maintained a product-first dissent. Bezos, Gary V and Wickman moved from B to C after treating the pilot as a reversible learning step."
+    },
+    {
+      "crux": "What is the moat if land data is public?",
+      "story": "The room agreed that public data and a map interface alone are not defensible. The possible moat is trusted provenance, updated history, interpretation and a repeatable workflow."
+    },
+    {
+      "crux": "One business or two?",
+      "story": "The development/JV proposition and the software/intelligence product require separate economics, contracts and capital decisions."
+    }
+  ],
+  "amendments": [
+    {
+      "seat": "Bezos",
+      "amendment": "Keep the 90-day limit and productisation gate.",
+      "adopted": true,
+      "reason": "Prevents an indefinite service business and keeps the test reversible."
+    },
+    {
+      "seat": "Hormozi",
+      "amendment": "Collect a deposit before starting and calculate gross profit after delivery hours.",
+      "adopted": true,
+      "reason": "Separates real buying behaviour from polite interest."
+    },
+    {
+      "seat": "Gary V",
+      "amendment": "Publish one sourced insight weekly without exposing client information.",
+      "adopted": true,
+      "reason": "Creates distribution among the target audience while protecting data integrity."
+    },
+    {
+      "seat": "Martell",
+      "amendment": "Track founder hours and prohibit premature hiring.",
+      "adopted": true,
+      "reason": "Makes founder capacity and labour economics visible."
+    },
+    {
+      "seat": "Wickman",
+      "amendment": "One owner and one weekly delivery scorecard.",
+      "adopted": true,
+      "reason": "Makes quality and execution accountable without adding bureaucracy."
+    },
+    {
+      "seat": "Buffett",
+      "amendment": "No debt, guarantees, speculative land purchases or blended JV cash.",
+      "adopted": true,
+      "reason": "Caps downside and separates capital-intensive activity from the pilot."
+    },
+    {
+      "seat": "Naval",
+      "amendment": "Require permissioned reusable data and an explicit productisation milestone.",
+      "adopted": true,
+      "reason": "Protects the goal of building an owned software and data asset, even though Naval still dissents on the sequencing."
+    }
+  ],
+  "cheapest_test": "Offer ten Kigali developers a paid assessment for one live parcel decision. Collect a deposit before doing the research.",
+  "revisit": "2027-02-19, with paid customers, repeat/referral count, fees, delivery hours and costs, report corrections, turnaround, lead source and cash/runway.",
+  "override_note": "No seat ended at likely ruin risk. C is a reversible 90-day test with no new debt, guarantees, land commitments or fixed-cost expansion."
+}
