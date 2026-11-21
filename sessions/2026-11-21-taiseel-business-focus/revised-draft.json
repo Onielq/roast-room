@@ -1,0 +1,22 @@
+{
+  "option": "B",
+  "label": "GO WITH CONDITIONS",
+  "recommendation": "Operate as a free-to-consumer property and land discovery marketplace. Build reliable public search and current inventory in a bounded Kigali launch market, then monetise qualified partner exposure, professional tools and consent-based introductions.",
+  "conditions": [
+    "Core public search, basic property/parcel discovery and consumer browsing remain free.",
+    "Establish a bounded launch market with active, verified and recently updated inventory before scaling paid acquisition.",
+    "Start with one or two paying partner groups, likely agents/agencies and developers or rental managers.",
+    "Label all paid placement and protect organic search relevance and factual data from payment influence.",
+    "Share personal contact details only after explicit, purpose-specific consent.",
+    "Measure search-to-contact, lead validity, partner response, conversion, renewal and contribution margin.",
+    "Keep development/JV underwriting and cash separate from marketplace operations.",
+    "Mortgage, insurance and transaction-linked referrals require written partner agreements and local legal review."
+  ],
+  "next_steps": [
+    "Define launch geography, property categories, listing freshness/verification rules and the free user journey.",
+    "Interview and onboard a small cohort of agents, landlords and developers. Capture actual search demand and enquiries.",
+    "Test one paid partner offer only after measurable qualified enquiries exist; review conversion, renewal intent and contribution."
+  ],
+  "cheapest_test": "Give a small cohort free basic listing and public search access in one Kigali segment, route consented enquiries, then offer partners a clearly priced campaign or qualified-lead pilot.",
+  "kill_criteria": "Do not scale spend or partner inventory if seekers cannot find current relevant listings, qualified enquiries are too few for partners to renew, or data quality/privacy cannot be maintained."
+}

@@ -1,0 +1,101 @@
+{
+  "label": "GO WITH CONDITIONS",
+  "call": "Keep core Taiseel search and basic land/property discovery free to the public. Build a trusted, current marketplace in a defined Kigali launch market, then earn revenue from professional partners through qualified leads, clearly labelled promotion and useful business tools.",
+  "recommended": "B",
+  "why": [
+    {
+      "point": "The public user creates the marketplace network; partner outcomes are what businesses pay for.",
+      "seat": "Graham",
+      "framework": "Make Something People Want"
+    },
+    {
+      "point": "A qualified enquiry is more valuable than a generic banner impression. Define lead quality, response time and attribution.",
+      "seat": "Hormozi",
+      "framework": "Value Equation and Money Model"
+    },
+    {
+      "point": "The marketplace's long-term asset is trusted information, usage and repeat partner relationships, not paid ranking.",
+      "seat": "Bezos",
+      "framework": "Customer Obsession"
+    }
+  ],
+  "minority": {
+    "seat": "None",
+    "quote": "All eight seats endorsed Option B, five with amendments.",
+    "would_have_to_be_true": "The model fails if free public search does not create repeat use or if partner leads do not generate repeat payment."
+  },
+  "next_steps": [
+    {
+      "when": "Now",
+      "action": "Make free public search and basic land/property discovery the fixed product principle."
+    },
+    {
+      "when": "Launch focus",
+      "action": "Choose one Kigali inventory segment and define listing verification, freshness and user-contact standards."
+    },
+    {
+      "when": "After enquiry proof",
+      "action": "Pilot one paid partner offer with agents or developers, measure lead quality and partner renewal before adding banks and other services."
+    }
+  ],
+  "kill_criteria": "Do not scale spend or partner inventory if seekers cannot find current relevant listings, qualified enquiries do not lead to partner renewal, or data quality and privacy cannot be maintained.",
+  "conditions": [
+    "Public search and basic discovery remain free.",
+    "Start with current, verifiable supply in a bounded Kigali market.",
+    "Begin with one or two partner categories.",
+    "Clearly label paid placement; no payment influence on parcel facts, zoning or organic relevance.",
+    "Obtain explicit consent before sharing a user's contact information.",
+    "Measure search-to-contact, lead validity, partner response, conversions, renewal and contribution margin.",
+    "Separate Taiseel development/JV economics and disclose affiliated projects.",
+    "Get written partner terms and local legal review for mortgage and transaction-linked referral fees."
+  ],
+  "fights": [
+    {
+      "crux": "When to charge for listings and promotion?",
+      "story": "The board favoured frictionless basic supply onboarding while inventory is thin; monetise partner outcomes and optional promotion after user demand exists."
+    },
+    {
+      "crux": "What is the first revenue product?",
+      "story": "No single monetisation fits all partners. Test a narrow agent or developer campaign first, measuring qualified enquiries and renewal."
+    },
+    {
+      "crux": "Can Taiseel remain neutral while having its own projects?",
+      "story": "Affiliated projects must be disclosed and paid ranking must not secretly alter organic relevance or data."
+    }
+  ],
+  "amendments": [
+    {
+      "seat": "Bezos",
+      "amendment": "Label paid placement and preserve factual neutrality.",
+      "adopted": true,
+      "reason": "Protects trust, the core marketplace asset."
+    },
+    {
+      "seat": "Hormozi",
+      "amendment": "Define qualified leads and partner response requirements.",
+      "adopted": true,
+      "reason": "Makes partner value measurable."
+    },
+    {
+      "seat": "Martell",
+      "amendment": "Start with one partner segment and one onboarding workflow.",
+      "adopted": true,
+      "reason": "Protects founder capacity."
+    },
+    {
+      "seat": "Wickman",
+      "amendment": "Assign one owner to inventory freshness and search quality.",
+      "adopted": true,
+      "reason": "Creates operational accountability."
+    },
+    {
+      "seat": "Buffett",
+      "amendment": "Stage spending and require renewals and positive contribution.",
+      "adopted": true,
+      "reason": "Protects capital."
+    }
+  ],
+  "cheapest_test": "Seed one Kigali segment with free verified listings, route consent-based enquiries and then offer a small cohort of agents/developers one clearly priced paid campaign or qualified-lead pilot.",
+  "revisit": "After the first 90-day marketplace pilot, review active verified inventory, repeat searchers, search-to-contact rate, invalid/duplicate lead rate, response time, partner conversions, renewals and contribution margin.",
+  "override_note": "GO WITH CONDITIONS because marketplace liquidity, partner monetisation and data trust are not yet evidenced at Taiseel's scale."
+}
