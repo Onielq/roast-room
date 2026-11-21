@@ -1,0 +1,20 @@
+{
+  "option": "C",
+  "label": "GO",
+  "recommendation": "Run a 90-day paid site-intelligence service for Kigali-based real-estate developers. Use manual delivery to validate the buyer and repeatable workflow, then productise only what buyers repeatedly pay for.",
+  "conditions": [
+    "20 qualified buyer conversations within 30 days.",
+    "At least five paid assessments within 90 days.",
+    "At least two repeat orders, retainer requests or referrals.",
+    "By the fifth report, direct delivery costs targeted below 50% of collected fees.",
+    "All material claims show source, date and confidence; no legal title or valuation guarantees.",
+    "No hires, debt or speculative development commitments during the test."
+  ],
+  "next_steps": [
+    "By 2026-11-28: define the Site Decision Brief, data-source register, exclusions and payment terms.",
+    "By 2026-12-21: complete 20 buyer conversations and secure the first paid pilots.",
+    "By 2027-02-19: review five paid reports, repeat demand, contribution margin and productisation decision."
+  ],
+  "cheapest_test": "Offer ten Kigali developers a paid assessment for a live parcel decision and collect a deposit before research.",
+  "kill_criteria": "Stop or reshape if fewer than three of 20 qualified buyers pay, if the report does not change decisions, if delivery cost remains above 70% of fees after five reports, or if reliable lawful data cannot be secured."
+}

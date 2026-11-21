@@ -1,0 +1,70 @@
+{
+  "cruxes": [
+    {
+      "question": "Should Taiseel sell the service first or build the product first?",
+      "sides": [
+        {
+          "position": "Sell paid assessments, learn, then productise",
+          "seats": [
+            "Graham",
+            "Hormozi",
+            "Martell",
+            "Buffett",
+            "Bezos",
+            "Gary V",
+            "Wickman"
+          ]
+        },
+        {
+          "position": "Build the reusable software asset first",
+          "seats": [
+            "Naval"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What is the defensible advantage if base land data is public?",
+      "sides": [
+        {
+          "position": "Verified workflow, provenance, history and interpretation",
+          "seats": [
+            "Bezos",
+            "Graham",
+            "Hormozi",
+            "Wickman",
+            "Buffett"
+          ]
+        },
+        {
+          "position": "Without proprietary data, the service may not compound",
+          "seats": [
+            "Naval"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Is this one company or two different businesses?",
+      "sides": [
+        {
+          "position": "Separate development/JV economics from the software product",
+          "seats": [
+            "Buffett",
+            "Bezos",
+            "Wickman"
+          ]
+        },
+        {
+          "position": "Keep shared brand and distribution where useful",
+          "seats": [
+            "Gary V",
+            "Naval"
+          ]
+        }
+      ]
+    }
+  ],
+  "unanimous": false,
+  "note": "The core fight is sequencing: prove one costly customer decision with paid work before funding the software and marketplace ambition."
+}
